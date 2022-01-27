@@ -23,5 +23,4 @@ a. Fetch all keys<br/>
 ![image](https://user-images.githubusercontent.com/37982804/151352418-73842fae-b938-42c0-9eac-30291c5bbf04.png)
 <br/><br/>b. Fetch value from key<br/>
 ![redis-db-snap](https://user-images.githubusercontent.com/37982804/151365984-91b65801-8a3a-40db-8f31-3f3203356e4d.png)
-
-I dont know why the key-value pairs are stored in such order, I'll update the information in future.
+<br/><br/>I dont know why the key-value pairs are stored in such order, I'll update the information in future.
